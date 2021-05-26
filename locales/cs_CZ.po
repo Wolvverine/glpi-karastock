@@ -1,0 +1,158 @@
+# English translations for wamp package.
+# Copyright (C) 2021 THE wamp'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the wamp package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wamp 64\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-28 22:24+0200\n"
+"PO-Revision-Date: 2021-05-26 11:39+0200\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: Tomáš Begeni <begeni@razdva.cz>\n"
+"Language: ce\n"
+
+#: ajax/datetime_dropdown.php:61 inc/order.class.php:275
+#: inc/order.class.php:448
+msgid "Bill ID"
+msgstr "ID účtu"
+
+#: front/history.php:50 front/menu.php:42 front/order.form.php:96
+#: front/order.php:41 front/stock.php:50 inc/profile.class.php:113
+msgid "Karastock"
+msgstr "Karastock"
+
+#: front/menu.php:52 inc/history.class.php:185 inc/stock.class.php:135
+#: inc/stock.class.php:187 inc/stock.class.php:247
+msgid "Stock management"
+msgstr "Skladové hospodářství"
+
+#: front/menu.php:60
+msgid "Orders"
+msgstr "Objednávky"
+
+#: front/menu.php:69 inc/menu.class.php:74 inc/stock.class.php:74
+msgid "Stock"
+msgstr "Skladem"
+
+#: front/menu.php:78 inc/history.class.php:74
+msgid "History"
+msgstr "Historie"
+
+#: inc/history.class.php:126 inc/order.class.php:159 inc/stock.class.php:251
+#: inc/stock.class.php:337
+msgid "Order"
+msgid_plural "Orders"
+msgstr[0] "Order"
+msgstr[1] "Orders"
+
+#: inc/history.class.php:127 inc/order.class.php:230 inc/order.class.php:388
+msgid "Order date"
+msgstr "Datum objednávky"
+
+#: inc/history.class.php:133 inc/orderitem.class.php:449
+#: inc/orderitem.class.php:688
+msgid "Device"
+msgstr "Zařízení"
+
+#: inc/history.class.php:136 inc/orderitem.class.php:245
+msgid "Withdrawal at"
+msgstr "Odstoupení od smlouvy na"
+
+#: inc/history.class.php:137
+msgid "Invoice number"
+msgstr "Číslo faktury"
+
+#: inc/history.class.php:138
+msgid "Invoice date"
+msgstr "Datum faktury"
+
+#: inc/order.class.php:210 inc/order.class.php:352
+msgid "Order Number"
+msgstr "Číslo objednávky"
+
+#: inc/order.class.php:239
+msgid "Received at"
+msgstr "Přijato na"
+
+#: inc/order.class.php:248 inc/order.class.php:405
+msgid "Received"
+msgstr "Přijal"
+
+#: inc/order.class.php:257
+msgid "Bill received at"
+msgstr "Účet přijatý na"
+
+#: inc/order.class.php:266 inc/order.class.php:426
+msgid "Bill received"
+msgstr "Účet přijat"
+
+#: inc/order.class.php:340
+#, php-format
+msgid "%1$s - ID %2$d"
+msgstr "%1$s - ID %2$d"
+
+#: inc/order.class.php:363
+msgid "Other ID"
+msgstr "Jiné ID"
+
+#: inc/orderitem.class.php:145
+msgid "Order item"
+msgid_plural "Order items"
+msgstr[0] "Položka objednávky"
+msgstr[1] "Položky objednávky"
+
+#: inc/orderitem.class.php:235 inc/orderitem.class.php:330
+#: inc/orderitem.class.php:447 inc/orderitem.class.php:720
+msgid "Withdrawal"
+msgstr "Odstoupení"
+
+#: inc/orderitem.class.php:411
+msgid "Add new items to this Order"
+msgstr "Přidat nové položky do objednávky"
+
+#: inc/orderitem.class.php:471
+msgid "Yes at"
+msgstr "Ano v"
+
+#: inc/orderitem.class.php:479
+msgid "No, in"
+msgstr "Ne, v"
+
+#: inc/orderitem.class.php:600 inc/orderitem.class.php:669
+msgid "Item type"
+msgstr "Typ položky"
+
+#: inc/orderitem.class.php:605 inc/orderitem.class.php:695
+msgid "Item Model"
+msgstr "Model položky"
+
+#: inc/orderitem.class.php:613 inc/orderitem.class.php:701
+msgid "Item Cost"
+msgstr "Cena položky"
+
+#: inc/orderitem.class.php:620
+msgid "Item Count"
+msgstr "Počet položek"
+
+#: inc/orderitem.class.php:778
+msgid ""
+"No GLPI type found for this item type. Set indications in comments or model "
+"fields"
+msgstr ""
+"Pro tento typ položky nebyl nalezen žádný typ GLPI. Nastavení indikací v "
+"komentářích nebo modelových polích"
+
+#: inc/stock.class.php:254
+msgid "Quantity"
+msgstr "Množství"
+
+#: setup.php:119
+msgid "Installed / not configured"
+msgstr "Nainstalováno / nenakonfigurováno"
