@@ -1,4 +1,7 @@
 {
+    "require": {
+        "glpi-project/glpi": "^10"
+    },
     "require-dev": {
         "glpi-project/tools": "^0.1"
     },
