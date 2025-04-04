@@ -1,6 +1,6 @@
 {
     "require": {
-        "glpi-project/glpi": "^10"
+        "glpi-project/glpi": "^9"
     },
     "require-dev": {
         "glpi-project/tools": "^0.1"
