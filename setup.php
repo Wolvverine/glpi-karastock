@@ -70,11 +70,11 @@ function plugin_init_karastock() {
  */
 function plugin_version_karastock() {
    return [
-      'name'           => 'Karastock',
+      'name'           => __("Kara Stock", "karastock"),
       'version'        => PLUGIN_KARASTOCK_VERSION,
       'author'         => '<a href="http://www.phoen-ix.fr">Karhel</a>',
       'license'        => 'GPLV3+',
-      'homepage'       => '',
+      'homepage'       => 'https://github.com/Basicek1/glpi-karastock',
       'requirements'   => [
          'glpi' => [
             'min' => PLUGIN_KARASTOCK_MIN_GLPI,
